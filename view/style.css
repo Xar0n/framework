@@ -1,0 +1,51 @@
+*{
+margin:0;
+padding:0;
+}
+
+h1{
+padding-bottom:10px;
+}
+
+.content div{
+padding-bottom:30px;
+
+}
+
+.content{
+padding-top:10px;
+}
+html, body{ 
+height:100%; 
+}
+
+.container{ 
+min-height:100%; 
+}
+
+.footer{
+height:20px;
+margin-top:-30px;
+clear:both;
+width:100%;
+}
+
+.clr{ 
+height:100px;
+}
+
+body {
+font-family: Georgia;
+font-size: 16px;
+color: #000;
+}
+
+a {
+color:#00f;
+}
+a:hover {text-decoration: underline;}
+
+input[type="text"] {width: 500px;}
+input[type="submit"] {clear:both;}
+
+textarea {width: 500px; height: 300px;}
